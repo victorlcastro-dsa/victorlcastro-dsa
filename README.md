@@ -5,6 +5,7 @@
 - 📫 How to reach me: www.linkedin.com/in/victorlcastro
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always like to learn new things
+- ⬇️ Take a look at my repository to see more of my work
 
 <!---
 victorlcastro-dsa/victorlcastro-dsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
