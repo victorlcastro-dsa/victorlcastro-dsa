@@ -40,5 +40,6 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 * This `repository` is constantly evolving; new projects will be added frequently. 🆕
 * Don't hesitate to contact me if you need help with anything related to Data Science. 🆘
+* This work area has a development `environment` shared between projects for the purpose of study, other `repositories` that are not for study will have their own development  environments aiming to meet the industry standard. ⚠️
 
 ### Thank you for your interest!
