@@ -42,6 +42,10 @@ Take a look at the existing projects and feel free to contact me if you have any
 * This `profile` is constantly evolving; new projects will be added frequently. 🆕
 * Don't hesitate to contact me if you need help with anything related to Data Science. 🆘
 
+### 🌐 Repositories
+
+* **Link:** [Repositories](https://github.com/victorlcastro-dsa?tab=repositories)
+
 ### 🙏 Thank you for your interest!
 
 ---
