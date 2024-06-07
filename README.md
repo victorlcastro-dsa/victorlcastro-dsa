@@ -3,7 +3,7 @@
 - I’m currently learning `Python for Data Science 🌱` 
 <br>
 
-<a href="www.linkedin.com/in/victorlcastro">
+<a href="https://www.linkedin.com/in/victorlcastro">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" style="width:110px;"/>
 </a><a><a href="https://medium.com/@victorlopesdecastro">
   <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" style="width:100px;"/>
