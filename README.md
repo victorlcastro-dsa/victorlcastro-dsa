@@ -1,21 +1,14 @@
-- 👋 Hi, I’m [Victor](https://github.com/victorlcastro-dsa)
-- 👀 I’m interested in `Data Science` and `Biotechnology`
-- 🌱 I’m currently learning `Python for Data Science`
-- 💞️ I’m looking to collaborate on `Data Science` Projects 
-- ⚡ Fun fact: I always like to learn new things
+- Hi, I’m [Victor](https://github.com/victorlcastro-dsa) 👨‍🔬🧑‍💻
+- I’m `Data Scientist 📊` and `Biotechnologist 🧬` 
+- I’m currently learning `Python for Data Science 🌱` 
+<br>
 
----
-## Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro) 
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@victorlopesdecastro)
-
----
-
-⬇️ Read the `informations` about my projects
-
----
+<a href="www.linkedin.com/in/victorlcastro">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" style="width:110px;"/>
+</a><a href="https://medium.com/@victorlopesdecastro">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" style="width:100px;"/>
+</a>
+<br>
 
 ## 📊 Data Science Projects Repositories
 
@@ -58,46 +51,13 @@ Take a look at the existing projects and feel free to contact me if you have any
 * This `profile` is constantly evolving; new projects will be added frequently. 🆕
 * Don't hesitate to contact me if you need help with anything related to Data Science. 🆘
 
-### 🌐 Repositories
+### 🌐 Repositories 
 
-* **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories) 
-![Loading Bar](https://giphy.com/gifs/loading-bar-sareffi-ioCNNt0RJfICFLXaoD)
+[![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk0ODc4Y3UxM3hoMmk1cnltd3hvdjgzZWR5b283Z3ZnOWwxbmEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDpTwVjvIefKxMheTq/giphy.gif)](https://github.com/victorlcastro-dsa?tab=repositories)
 
-### 🙏 Thank you for your interest!
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorlcastro-dsa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcastro-dsa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victorlcastro-dsa&theme=radical)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorlcastro-dsa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=victorlcastro-dsa&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## What I'm listening to on Spotify
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/victorezzo)
-
----
-
-## My Gists
-
-[![Gist Pins](https://github-readme-gist-pins.herokuapp.com/?username=victorlcastro-dsa)](https://gist.github.com)
-
-## Visitor Counter
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa)
-
----
-
-
-
-
-
----
+<font color="gray" size="1">💡 Tip: The GIF is clickable. </font>
+--- 
+#### 🙏 Thank you for your interest! <br><br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa)
 
 <!---
 victorlcastro-dsa/victorlcastro-dsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
