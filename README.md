@@ -51,36 +51,8 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 ### 🌐 Repositories
 
-* **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories)
+* **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories) ![Loading Bar](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-<div class="progress-container">
-  <div class="progress-bar"></div>
-</div>
-
-<style>
-.progress-container {
-  width: 100%;
-  background-color: #f3f3f3;
-  border-radius: 4px;
-  overflow: hidden;
-  margin-top: 20px;
-}
-
-.progress-bar {
-  width: 0%;
-  height: 30px;
-  background-color: #4caf50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-  animation: load 3s ease-in-out forwards;
-}
-
-@keyframes load {
-  0% { width: 0%; }
-  100% { width: 100%; }
-}
-</style>
 
 
 ### 🙏 Thank you for your interest!
