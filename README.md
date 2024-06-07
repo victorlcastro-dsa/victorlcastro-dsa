@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @victorlcastro-dsa [Victor](https://github.com/victorlcastro-dsa)
+- 👋 Hi, I’m [Victor](https://github.com/victorlcastro-dsa)
 - 👀 I’m interested in `Data Science` and `Biotechnology`
 - 🌱 I’m currently learning `Python for Data Science`
-- 💞️ I’m looking to collaborate on `Data Science` Projects
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro)
+- 💞️ I’m looking to collaborate on `Data Science` Projects 
 - ⚡ Fun fact: I always like to learn new things
-- ⬇️ Read the `informations` about my projects
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@victorlopesdecastro)
+
+---
+
+⬇️ Read the `informations` about my projects
 
 ---
 
@@ -52,8 +57,6 @@ Take a look at the existing projects and feel free to contact me if you have any
 ### 🌐 Repositories
 
 * **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories) ![Loading Bar](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-
 
 ### 🙏 Thank you for your interest!
 
