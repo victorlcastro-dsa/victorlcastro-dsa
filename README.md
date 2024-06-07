@@ -60,7 +60,8 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 ### 🌐 Repositories
 
-* **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories) ![Loading Bar](https://giphy.com/gifs/loading-bar-sareffi-ioCNNt0RJfICFLXaoD)
+* **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories) 
+![Loading Bar](https://giphy.com/gifs/loading-bar-sareffi-ioCNNt0RJfICFLXaoD)
 
 ### 🙏 Thank you for your interest!
 
