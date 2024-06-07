@@ -57,7 +57,7 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 ###### <font color="gray">💡 Tip: The GIF is clickable.</font>
 --- 
-#### 🙏 Thank you for your interest! <br><br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa)
+#### 🙏 Thank you for your interest! <br><br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544)
 
 <!---
 victorlcastro-dsa/victorlcastro-dsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
