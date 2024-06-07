@@ -14,7 +14,7 @@
 
 ### 📖 Introduction
 
-This repository is designed to house general information about my projects for studying and practicing Data Science. On my profile, you will find various analyses, experiments, and models that I have developed throughout my learning journey.
+This section of `README.md` is designed to house general information about my projects for studying and practicing Data Science. On my profile, you will find various analyses, experiments, and models that I have developed throughout my learning journey.
 
 **🎯 Objective:**
 
