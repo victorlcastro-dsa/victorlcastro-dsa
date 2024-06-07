@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @victorlcastro-dsa
+- 👋 Hi, I’m @victorlcastro-dsa [Victor](https://github.com/victorlcastro-dsa)
 - 👀 I’m interested in `Data Science` and `Biotechnology`
 - 🌱 I’m currently learning `Python for Data Science`
 - 💞️ I’m looking to collaborate on `Data Science` Projects
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/victorlcastro)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro)
 - ⚡ Fun fact: I always like to learn new things
 - ⬇️ Read the `informations` about my projects
 
