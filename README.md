@@ -3,9 +3,14 @@
 - 🌱 I’m currently learning `Python for Data Science`
 - 💞️ I’m looking to collaborate on `Data Science` Projects 
 - ⚡ Fun fact: I always like to learn new things
----
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@victorlopesdecastro)
+![Meu Avatar](https://avatars.githubusercontent.com/u/12345678?v=4)
+
+---
+## Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorlcastro) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@victorlopesdecastro)
 
 ---
 
@@ -62,6 +67,37 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorlcastro-dsa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcastro-dsa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victorlcastro-dsa&theme=radical)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorlcastro-dsa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=victorlcastro-dsa&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## What I'm listening to on Spotify
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/victorezzo)
+
+---
+
+## My Gists
+
+[![Gist Pins](https://github-readme-gist-pins.herokuapp.com/?username=victorlcastro-dsa)](https://gist.github.com)
+
+## Visitor Counter
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa)
+
+---
+
+
+
+
+
+---
 
 <!---
 victorlcastro-dsa/victorlcastro-dsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
