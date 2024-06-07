@@ -5,7 +5,7 @@
 - 📫 How to reach me: www.linkedin.com/in/victorlcastro
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always like to learn new things
-- ⬇️ Take a look at my `repositories` to see more of my 
+- ⬇️ Take a look at my `repositories` to see more of my work
 - ⚠️ Read the `Information` repository first
 
 <!---
