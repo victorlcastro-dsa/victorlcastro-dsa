@@ -1,5 +1,3 @@
----
-
 - 👋 Hi, I’m @victorlcastro-dsa
 - 👀 I’m interested in `Data Science` and `Biotechnology`
 - 🌱 I’m currently learning `Python for Data Science`
