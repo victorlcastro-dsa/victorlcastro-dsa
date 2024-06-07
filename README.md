@@ -55,7 +55,7 @@ Take a look at the existing projects and feel free to contact me if you have any
 
 [![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk0ODc4Y3UxM3hoMmk1cnltd3hvdjgzZWR5b283Z3ZnOWwxbmEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDpTwVjvIefKxMheTq/giphy.gif)](https://github.com/victorlcastro-dsa?tab=repositories)
 
-<span style="color:gray; font-size:small">💡 Tip: The GIF is clickable.</span>
+###### <font color="gray">💡 Tip: The GIF is clickable.</font>
 --- 
 #### 🙏 Thank you for your interest! <br><br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa)
 
