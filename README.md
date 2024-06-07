@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on `Data Science` Projects 
 - ⚡ Fun fact: I always like to learn new things
 
-![Meu Avatar](https://avatars.githubusercontent.com/u/12345678?v=4)
-
 ---
 ## Social Media
 
