@@ -4,9 +4,9 @@
 - 👀 I’m interested in `Data Science` and `Biotechnology`
 - 🌱 I’m currently learning `Python for Data Science`
 - 💞️ I’m looking to collaborate on `Data Science` Projects
-- 📫 How to reach me: www.linkedin.com/in/victorlcastro
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/victorlcastro)
 - ⚡ Fun fact: I always like to learn new things
-- ⚠️ Read the `informations` about my projects
+- ⬇️ Read the `informations` about my projects
 
 ---
 
@@ -54,6 +54,36 @@ Take a look at the existing projects and feel free to contact me if you have any
 ### 🌐 Repositories
 
 * **Link:** [Projects](https://github.com/victorlcastro-dsa?tab=repositories)
+
+<div class="progress-container">
+  <div class="progress-bar"></div>
+</div>
+
+<style>
+.progress-container {
+  width: 100%;
+  background-color: #f3f3f3;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 30px;
+  background-color: #4caf50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  animation: load 3s ease-in-out forwards;
+}
+
+@keyframes load {
+  0% { width: 0%; }
+  100% { width: 100%; }
+}
+</style>
+
 
 ### 🙏 Thank you for your interest!
 
