@@ -12,7 +12,6 @@
   </a>
 </div>
 
-
 <div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
   <h2 align="center" style="color: #333;">🚀 Technologies Used</h2>
 </div>
@@ -31,7 +30,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
 
-
 <div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
   <h2 align="center" style="color: #333;">📈 GitHub Statistics</h2>
 </div>
@@ -40,14 +38,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcastro-dsa&layout=compact&theme=radical" alt="Top Langs" width="38%">
 </div>
 
-
 <div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
   <h2 align="center" style="color: #333;">🙏 Thank you for your interest!</h2>
+</div>
+<div align="center" style="margin-top: 50px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Welcome GIF" width="80%">
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544" alt="Visitor Badge">
 </div>
-
-  <div align="center" style="margin-top: 50px;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Welcome GIF" width="80%">
-  </div>
