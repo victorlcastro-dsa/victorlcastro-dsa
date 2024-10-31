@@ -47,6 +47,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544" alt="Visitor Badge">
 </div>
-  <div align="center" style="margin-top: 20px;">
+
+  <div align="center" style="margin-top: 50px;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Welcome GIF" width="80%">
   </div>
