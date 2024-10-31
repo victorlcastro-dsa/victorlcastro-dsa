@@ -1,65 +1,47 @@
-- Hi, I’m [Victor](https://github.com/victorlcastro-dsa) 👨‍🔬🧑‍💻
-- I’m `Data Scientist 📊` and `Biotechnologist 🧬` 
-- I’m currently learning `Python for Data Science 🌱` 
-<br>
+<div style="background-color: #e0e0e0; padding: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif;">
+  <h1 align="center" style="color: #333;">Welcome to Victor Castro's Profile! 👨‍🔬🧑‍💻</h1>
+  <p style="color: #333;">Biotechnologist | Data Scientist | Full-Stack Developer</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544" alt="Visitor Badge" style="position: absolute; top: 20px; right: 59px;">
+</div>
 
-<a href="https://www.linkedin.com/in/victorlcastro">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" style="width:110px;"/>
-</a><a><a href="https://medium.com/@victorlcastro">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" style="width:100px;"/>
-</a>
-<br>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/victorlcastro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@victorlcastro">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
 
-## 📊 Data Science Projects Repositories
 
-### 📖 Introduction
+<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
+  <h2 align="center" style="color: #333;">🚀 Technologies Used</h2>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</div>
 
-This section of `README.md` is designed to house general information about my projects for studying and practicing Data Science. On my profile, you will find various analyses, experiments, and models that I have developed throughout my learning journey.
 
-**🎯 Objective:**
+<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
+  <h2 align="center" style="color: #333;">📈 GitHub Statistics</h2>
+</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorlcastro-dsa&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcastro-dsa&layout=compact&theme=radical" alt="Top Langs" width="38%">
+</div>
 
-* **Organize my projects:** Maintaining a 🗂️ organized location for my Data Science projects facilitates review, `sharing`, and collaboration.
-* **Document my learning:** Recording the details of each project helps me track my progress and identify areas for improvement.
-* **Share knowledge:** Making my projects public allows others to learn from my experiences and solutions.
 
-### 🗂️ Repository Structure
-
-Projects are organized into individual `folders`, each with its own `README.md` explaining the project's context, objectives, methodology, and results.
-
-### 🛠️ Tools Used
-
-* Python (primary programming language) 🐍
-* Data science libraries (Pandas, NumPy, scikit-learn, etc.) 📚
-* Data visualization tools (Matplotlib, Seaborn, etc.) 📊
-* Jupyter Notebooks (interactive development environment) 📓
-
-### 🤝 How to Contribute
-
-* **Suggest new projects:** Open an issue to suggest a new project you would like to see on my `profile`. 💡
-* **Provide feedback:** Leave comments on the projects' `README.md` files to share your ideas and suggestions. 💬
-
-### 🌱 Learning Together
-
-I believe that learning Data Science is most effective when done collaboratively. I hope this `profile` serves as a space to share knowledge, exchange experiences, and collaborate on interesting projects.
-
-### 🚀 Start Exploring!
-
-Take a look at the existing projects and feel free to contact me if you have any questions ❓ or suggestions.
-
-### 📌 Reminders
-
-* This `profile` is constantly evolving; new projects will be added frequently. 🆕
-* Don't hesitate to contact me if you need help with anything related to Data Science. 🆘
-
-### 🌐 Repositories 
-
-[![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk0ODc4Y3UxM3hoMmk1cnltd3hvdjgzZWR5b283Z3ZnOWwxbmEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDpTwVjvIefKxMheTq/giphy.gif)](https://github.com/victorlcastro-dsa?tab=repositories)
-
-###### <font color="gray">💡 Tip: The GIF is clickable.</font>
---- 
-#### 🙏 Thank you for your interest! <br><br>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544)
-
-<!---
-victorlcastro-dsa/victorlcastro-dsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
+  <h2 align="center" style="color: #333;">🙏 Thank you for your interest!</h2>
+</div>
