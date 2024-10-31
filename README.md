@@ -1,8 +1,10 @@
 <div style="background-color: #e0e0e0; padding: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif;">
   <h1 align="center" style="color: #333;">Welcome to Victor Castro's Profile! 👨‍🔬🧑‍💻</h1>
-  <p style="color: #333;">Biotechnologist | Data Scientist | Full-Stack Developer</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544" alt="Visitor Badge" style="position: absolute; top: 20px; right: 59px;">
+  <p align="center" style="color: #333;">Biotechnologist | Data Scientist | Full-Stack Developer</p>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=victorlcastro-dsa#151792544" alt="Visitor Badge">
 </div>
+
+---
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/victorlcastro">
