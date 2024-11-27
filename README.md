@@ -15,7 +15,7 @@
 <div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
   <h2 align="center" style="color: #333;">🚀 Technologies Used</h2>
 </div>
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 21px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
