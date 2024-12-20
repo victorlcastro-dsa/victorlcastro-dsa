@@ -1,9 +1,9 @@
-<div style="background-color: #e0e0e0; padding: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); text-align: center; font-family: Arial, sans-serif;">
-  <h1 align="center" style="color: #333;">Welcome to Victor Castro's Profile! 👨‍🔬🧑‍💻</h1>
-  <p align="center" style="color: #333;">Biotechnologist | Data Scientist | Full-Stack Developer</p>
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h1 align="center" style="color: #222;">Welcome to Victor Castro's Profile! 👨‍🔬🧑‍💻</h1>
+  <p align="center" style="color: #555;">Biotechnologist | Data Scientist | Full-Stack Developer</p>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 25px;">
   <a href="https://www.linkedin.com/in/victorlcastro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -12,17 +12,16 @@
   </a>
 </div>
 
-<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
-  <h2 align="center" style="color: #333;">🚀 Technologies Used</h2>
+<div style="background-color: #f5f5f5; padding: 5px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h2 align="center" style="color: #222;">🚀 Technologies Used</h2>
 </div>
-<div align="center" style="margin-top: 21px;">
+<div align="center" style="margin-top: 25px;">
   <h4 style="margin:0;">Programming Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   
-
   <h4 style="margin:0;">Data Science Libraries</h4>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -56,18 +55,18 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </div>
 
-<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
-  <h2 align="center" style="color: #333;">📈 GitHub Statistics</h2>
+<div style="background-color: #f5f5f5; padding: 5px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h2 align="center" style="color: #222;">📈 GitHub Statistics</h2>
 </div>
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=victorlcastro-dsa&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlcastro-dsa&layout=compact&theme=radical" alt="Top Langs" width="38%">
 </div>
 
-<div style="background-color: #e0e0e0; padding: 0px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
-  <h2 align="center" style="color: #333;">🙏 Thank you for your interest!</h2>
+<div style="background-color: #f5f5f5; padding: 5px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h2 align="center" style="color: #222;">🙏 Thank you for your interest!</h2>
 </div>
-<div align="center" style="margin-top: 50px;">
+<div align="center" style="margin-top: 55px;">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Welcome GIF" width="80%">
 </div>
 <div align="center">
