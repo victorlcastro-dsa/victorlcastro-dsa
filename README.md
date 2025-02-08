@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </div>
 
 <div style="background-color: #f5f5f5; padding: 5px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
